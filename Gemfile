@@ -4,7 +4,7 @@ gem 'devise'
 gem 'geocoder'
 gem 'geokit-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.1.6'
+gem 'rails', '4.2.11.1'
 # Use postgresql as the database for Active Record
 gem 'pg'
 gem 'filterrific'
